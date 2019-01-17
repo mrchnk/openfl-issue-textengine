@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="openfl-issue-textengine" package="io.github.mrchnk.openfl-issue-textengine" version="1.0.0" company="mrchnk" />
+	<app main="Main" path="bin/app" file="Main" />
+
+	<window width="400" height="400" fps="30" />
+
+	<source path="src" />
+
+	<haxelib name="openfl" />
+
+	<library path="assets/library.swf" preload="true" />
+
+</project>
